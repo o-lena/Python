@@ -1,0 +1,16 @@
+{
+    "settings": {
+        "buchungspfad": "BspListe.csv"
+    },
+
+    "tab4": {
+        "predict_model":["Random Forest Regression"]
+    },
+
+    "nextcloud": {
+        "url": "https://nextcloud05.webo.cloud/remote.php/dav", 
+        "username": "anna.gafurova@htw-dresden.de",
+        "password": "qscwdv@!ABC7"
+    }
+
+}
